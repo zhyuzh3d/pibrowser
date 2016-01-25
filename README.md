@@ -1,5 +1,5 @@
 # pibrowser
-a browser for develpors
+A browser for develpors
 
 ### what's new
 #### 2016.01.25
